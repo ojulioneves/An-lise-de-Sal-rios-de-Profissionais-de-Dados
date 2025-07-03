@@ -6,6 +6,7 @@ Análise de dados dos salários de profissionais de dados utilizando bibliotecas
 📊 Medidas de Tendência Central
 
 Média: $137.570
+
 Mediana: $135.000
 
 📈 Medidas de Dispersão
